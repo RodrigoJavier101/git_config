@@ -1,0 +1,25 @@
+user.email=rodrigojaviergd@gmail.com
+user.name=rodrigo
+alias.lodag=log --oneline --decorate --all --graph
+alias.st=status
+alias.list=config --global -l
+alias.ad=add .
+alias.pu=push -u origin master
+alias.re=reset
+alias.cm=commit
+alias.cmm=commit -m
+alias.puall=push --mirror origin
+alias.ch=checkout
+alias.amend=commit --amend
+alias.br=branch
+alias.res=reset .
+alias.reshard=reset --hard
+alias.rl=reflog
+alias.t=tag
+alias.sh=show
+alias.hist=log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+alias.dalias=config --global --unset
+alias.stv=status -v
+alias.cmv=commit --verbose
+alias.dch=diff --check
+alias.d=diff
