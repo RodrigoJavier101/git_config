@@ -5,6 +5,7 @@ alias.st=status
 alias.list=config --global -l
 alias.ad=add .
 alias.pu=push -u origin master
+alias.puh=push heroku master
 alias.re=reset
 alias.cm=commit
 alias.cmm=commit -m
